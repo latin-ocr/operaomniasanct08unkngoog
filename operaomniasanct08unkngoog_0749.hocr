@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniasanct08unkngoog_0749.png"; bbox 0 0 800 1252; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 218 298 565 333">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 218 298 565 333">
+     <span class='ocr_line' id='line_1_1' title="bbox 218 298 565 313; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 218 298 259 312; x_wconf 73' lang='grc' dir='ltr'>ἸἭΒ</span> <span class='ocrx_word' id='word_1_2' title='bbox 269 299 315 312; x_wconf 74' lang='lat' dir='ltr'>Nssw</span> <span class='ocrx_word' id='word_1_3' title='bbox 323 299 381 312; x_wconf 71' lang='lat' dir='ltr'>Yonx</span> <span class='ocrx_word' id='word_1_4' title='bbox 391 299 463 313; x_wconf 72' lang='lat' dir='ltr'>Puni-lc</span> <span class='ocrx_word' id='word_1_5' title='bbox 473 299 565 313; x_wconf 74' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 279 321 508 333; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 279 321 383 333; x_wconf 65' lang='lat' dir='ltr'>numen</span> <span class='ocrx_word' id='word_1_7' title='bbox 392 321 508 333; x_wconf 66' lang='grc' dir='ltr'>υιῑιτΑιτκΒΝτ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 202 362 572 400">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 202 362 572 400">
+     <span class='ocr_line' id='line_1_3' title="bbox 202 362 572 377; baseline 0.003 -1"><span class='ocrx_word' id='word_1_8' title='bbox 202 362 239 376; x_wconf 62' lang='grc' dir='ltr'>τω-</span> <span class='ocrx_word' id='word_1_9' title='bbox 246 363 288 376; x_wconf 64' lang='lat' dir='ltr'>book</span> <span class='ocrx_word' id='word_1_10' title='bbox 295 364 308 377; x_wconf 66' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_11' title='bbox 314 364 364 377; x_wconf 64' lang='grc' dir='ltr'>..ιιι-ι</span> <span class='ocrx_word' id='word_1_12' title='bbox 371 368 393 377; x_wconf 72' lang='grc' dir='ltr'>ιο</span> <span class='ocrx_word' id='word_1_13' title='bbox 398 364 519 377; x_wconf 67' lang='lat' dir='ltr'>dnm-‹1200-</span> <span class='ocrx_word' id='word_1_14' title='bbox 528 367 545 377; x_wconf 76' lang='lat' dir='ltr'>m</span> <span class='ocrx_word' id='word_1_15' title='bbox 552 364 572 377; x_wconf 69' lang='lat' dir='ltr'>he</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 286 384 493 400; baseline 0 -3"><span class='ocrx_word' id='word_1_16' title='bbox 286 385 333 397; x_wconf 71' lang='lat' dir='ltr'>mna</span> <span class='ocrx_word' id='word_1_17' title='bbox 340 385 382 397; x_wconf 69' lang='grc' dir='ltr'><strong>[τοι.</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 388 385 415 397; x_wconf 63' lang='grc' dir='ltr'>ει..</span> <span class='ocrx_word' id='word_1_19' title='bbox 422 384 493 400; x_wconf 61' lang='lat' dir='ltr'>nanas„</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 94 100 662 1068">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 94 100 662 1068">
+     <span class='ocr_line' id='line_1_5' title="bbox 94 100 662 1068; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 94 100 662 1068; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
